@@ -16,4 +16,4 @@
 
 
 [gmail]: https://gmail.com/Kevinmbels
-[linkedin]: https://linkedin.com/in/Kevin
+[linkedin]: https://linkedin.com/in/kevin-beltran-sierra-0187b1273
