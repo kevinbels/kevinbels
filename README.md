@@ -7,9 +7,11 @@
   
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Kevin | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kevin | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /><a href="mailto:kevinmbels">Click here to email me</a>]
 
 
-[gmail]:kevinmbels@gmail.com
+
+
+
 [linkedin]: https://linkedin.com/in/kevin-beltran-sierra-0187b1273
