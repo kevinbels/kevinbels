@@ -2,13 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kevinbels/osticket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/kevinbels/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/kevinbels/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/kevinbels/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kevinbels/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System, Azure, IIS)</b>
+  - [osTicket Installation, Creating a Virtual Machine using Azure, Installed IIS in Windows with CGI and Common HTTP Features ](https://github.com/kevinbels/osticket-prerequisites)
+  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Kevin | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
